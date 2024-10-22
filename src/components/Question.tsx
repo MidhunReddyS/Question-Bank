@@ -1,4 +1,3 @@
-import * as React from 'react';
 import { Checkbox, Container, Grid2 as Grid, Paper, styled, Typography } from "@mui/material";
 
 const Item = styled(Paper)(({ theme }) => ({
